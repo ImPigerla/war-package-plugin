@@ -1,0 +1,15 @@
+{
+  "name": "war-package-plugin",
+  "version": "1.0.0",
+  "description": "webpack的一个插件，实现把构建后的文件，打包成war，以配合java后端相关的容器解压，服务静态文件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webpack",
+    "war"
+  ],
+  "author": "spy",
+  "license": "ISC"
+}
