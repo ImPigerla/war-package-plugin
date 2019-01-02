@@ -10,6 +10,7 @@
 
 2. 例如在`webpack.prod.conf.js`生产配置文件引入，然后加入到`plugin`，如下代码：
 
+    
     let ShellWarPlugin = require('./index.js')
     
     module.exports = merge(baseConfig, {
